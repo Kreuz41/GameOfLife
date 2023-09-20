@@ -1,0 +1,15 @@
+F:\Projects\C++\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.exe
+F:\Projects\C++\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.deps.json
+F:\Projects\C++\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.runtimeconfig.json
+F:\Projects\C++\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.dll
+F:\Projects\C++\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.pdb
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.csproj.AssemblyReference.cache
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.AssemblyInfoInputs.cache
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.AssemblyInfo.cs
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.csproj.CoreCompileInputs.cache
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.dll
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\refint\GameOfLife.dll
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.pdb
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.genruntimeconfig.cache
+F:\Projects\C++\GameOfLife\GameOfLife\obj\Debug\net7.0\ref\GameOfLife.dll
